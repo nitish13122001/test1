@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestPsaApplication {
 
 	public static void main(String[] args) {
+
+		int nice = 158;
 		SpringApplication.run(TestPsaApplication.class, args);
 	}
 
