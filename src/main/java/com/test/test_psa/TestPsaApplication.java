@@ -7,8 +7,17 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestPsaApplication {
 
 	public static void main(String[] args) {
+int nice = 158;
+                int e = 2021;
+		int x = 100;
+		int z = 302555;
+		int y = 122;
 
-
+		int nice = 158;
+                int e = 2021;
+		int x = 100;
+		int z = 302555;
+		int y = 122;
 		int nice = 158;
                 int e = 2021;
 		int x = 100;
