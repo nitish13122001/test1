@@ -8,7 +8,12 @@ public class TestPsaApplication {
 
 	public static void main(String[] args) {
 
+
 		int nice = 158;
+
+		int x = 100;
+		int y = 122;
+
 		SpringApplication.run(TestPsaApplication.class, args);
 	}
 
